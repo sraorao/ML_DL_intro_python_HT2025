@@ -5,7 +5,7 @@ Machine Learning in Python with scikit-learn
 COVID dataset analysis (regression problem)
 Author: Irina Chelysheva
 
-Date: November 4, 2024
+Date: January 27th, 2025
 COVID dataset extracted from OurWorldInData (https://github.com/owid/covid-19-data)
 """
 
