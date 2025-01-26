@@ -10,8 +10,8 @@ This course provides a practical introduction to applying machine learning and d
 
 You are expected to attend two half-day sessions:
 
-- **Monday, 27 January**: 09:30 - 13:00
-- **Tuesday, 28 January**: 09:30 - 13:00
+- **Monday, 27 January**: 10:00 - 13:00
+- **Tuesday, 28 January**: 10:00 - 13:00
 
 ## Requirements
 - Python 3.8 or above
