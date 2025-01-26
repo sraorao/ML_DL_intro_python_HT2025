@@ -1,6 +1,6 @@
 # Introduction to Machine Learning and Deep Learning in Python (2-Day Course)
 
-## By [Irina Chelysheva](https://github.com/Chelysheva) ([Oxford Profile](https://www.wadham.ox.ac.uk/people/irina-chelysheva)) and [Srinivasa Rao Rao](https://github.com/sraorao) ([Oxford Profile](https://www.nds.ox.ac.uk/team/srinivasa-rao))
+## By [Irina Chelysheva](https://github.com/Chelysheva) and [Srinivasa Rao Rao](https://github.com/sraorao) ([Oxford Profile](https://www.nds.ox.ac.uk/team/srinivasa-rao))
 
 ## Course Aim
 
